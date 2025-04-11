@@ -25,7 +25,7 @@ pip install CBOM
 ### Option 2: Install from source
 
 ```bash
-git clone https://github.com/huda1fah/CBOMr.git
+git clone https://github.com/huda1fah/CBOM.git
 cd CBOM
 pip install -e .
 ```
