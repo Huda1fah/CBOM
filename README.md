@@ -19,14 +19,14 @@ CBOM Detector is a tool designed to scan your system for cryptographic component
 ### Option 1: Install via pip
 
 ```bash
-pip install cbom-detector
+pip install CBOM
 ```
 
 ### Option 2: Install from source
 
 ```bash
-git clone https://github.com/huda1fah/cbom-detector.git
-cd cbom-detector
+git clone https://github.com/huda1fah/CBOMr.git
+cd CBOM
 pip install -e .
 ```
 
@@ -35,7 +35,7 @@ pip install -e .
 After installation, you can run the tool using:
 
 ```bash
-cbom-detector
+CBOM
 ```
 
 The tool will automatically:
